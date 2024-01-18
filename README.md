@@ -12,7 +12,7 @@ Techniques and tools used for text analysis and data categorization to extract m
 | Matplotlib                     | 3.7.1           |
 | Seaborn                        | 0.12.2          |
 
-- [Demo 01 Preprocessing the Profiles Dataset](https://github.com/SimoCs/)
+- [Demo 01 Preprocessing the Profiles Dataset](https://github.com/SimoCs/text-classification/blob/main/Demo%2001%20Preprocessing%20the%20Profiles%20Dataset.ipynb)
 - [Demo 02 ](https://github.com/SimoCs/)
 
 # Connect with me
